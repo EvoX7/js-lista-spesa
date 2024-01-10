@@ -10,7 +10,8 @@ const shoppingList = [
     "Pollo",
     "Fagiolini",
     "Insalata",
-    "Banane"
+    "Banane",
+    "Fragole"
   ];
   console.log(shoppingList);
   
